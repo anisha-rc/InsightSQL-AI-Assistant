@@ -1,4 +1,4 @@
-# 🤖 InsightSQL AI
+# 🤖 InsightSQL AI Assistant
 
 An AI-powered SQL Analytics Assistant that converts natural language business questions into executable MySQL queries using a locally hosted Large Language Model (Llama 3.1 via Ollama). The application securely executes queries, validates SQL using built-in guardrails, and generates AI-powered business insights from the query results.
 
@@ -172,13 +172,13 @@ After query execution, the application automatically generates business insights
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/InsightSQL-AI.git
+git clone https://github.com/anisha-rc/InsightSQL-AI-Assistant.git
 ```
 
 Navigate to the project
 
 ```bash
-cd InsightSQL-AI
+cd InsightSQL-AI-Assistant
 ```
 
 Install dependencies
