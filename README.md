@@ -209,7 +209,7 @@ streamlit run streamlit_app.py
 
 ## 👩‍💻 Author
 
-**Anisha Roy Choudhury**
+**Developed by Anisha Roy Choudhury**
 
 Tech Stack:
 Python • MySQL • Streamlit • Ollama • Llama 3.1
