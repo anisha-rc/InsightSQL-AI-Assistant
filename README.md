@@ -20,19 +20,14 @@ An AI-powered SQL Analytics Assistant that converts natural language business qu
 
 ## 🛠 Technology Stack
 
-- Python
-- MySQL
-- Streamlit
-- Ollama
-- Llama 3.1
-- Pandas
+Python | MySQL | Streamlit | Ollama | Llama 3.1
 
 ---
 
 ## 📂 Project Structure
 
 ```
-InsightSQL-AI/
+InsightSQL-AI-Assistant/
 
 │── streamlit_app.py
 │── app.py
@@ -52,7 +47,7 @@ InsightSQL-AI/
 
 │── query_logs.txt
 
-└── screenshots/
+└── screenshot/
 ```
 
 ---
@@ -135,7 +130,7 @@ After query execution, the application automatically generates business insights
 
 ---
 
-## 📸 Screenshot
+## 📸 Application Screenshots
 
 ### Home Page
 
@@ -205,7 +200,7 @@ streamlit run streamlit_app.py
 
 - Support multiple SQL databases
 - Interactive charts
-- Dashboard generation
+- Interactive dashboard visualizations
 - Voice-to-SQL
 - Role-based authentication
 - Cloud deployment
@@ -216,4 +211,5 @@ streamlit run streamlit_app.py
 
 **Anisha Roy Choudhury**
 
-Built using Python, MySQL, Streamlit, Ollama and Llama 3.1.
+Tech Stack:
+Python • MySQL • Streamlit • Ollama • Llama 3.1
